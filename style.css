@@ -1,0 +1,57 @@
+.topSection {
+    background-image: url(./Assets/backgroundTop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+
+.midSection {
+    background-image: url(./Assets/peak.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+
+.btnSection1 {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+
+
+#links {
+    font-weight: bold;
+    padding: 5px;
+    font-size: 18px;
+    text-emphasis: none;
+    background-color: rgb(64, 64, 145);
+    height: auto;
+    width: 100%;
+    color: lightgray;
+}
+
+.links1 {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.links1:hover {
+    background-color: lightgray;
+    text-decoration: underline;
+    color: rgb(64, 64, 145);
+}
+
+.links2 {
+    margin-left: 20px;
+    color: lightgray;
+}
+.btnSection3 {
+    background-image: url(./Assets/photo-1417021423914-070979c8eb34.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
